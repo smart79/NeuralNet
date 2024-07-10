@@ -48,6 +48,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip install -r requirements.txt" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
